@@ -19,6 +19,7 @@
         <item name="android:colorPrimary">@color/primary</item>
         <item name="android:colorPrimaryDark">@color/primary_dark</item>
         <item name="android:colorAccent">@color/accent</item>
+        <item name="android:navigationBarColor">@color/primary_dark</item>
         <item name="android:windowBackground">@color/window_background</item>
     </style>
     <style name="Widget.Material.SeekBar.Vertical" parent="@android:Widget.Holo.SeekBar">
@@ -27,6 +28,7 @@
         <item name="android:colorPrimary">@color/primary</item>
         <item name="android:colorPrimaryDark">@color/primary_dark</item>
         <item name="android:colorAccent">@color/accent</item>
+        <item name="android:navigationBarColor">@color/primary_dark</item>
 <!-- not public       <item name="android:indeterminateDrawable">@android:drawable/scrubber_progress_horizontal_holo_dark</item> -->
         <item name="android:minWidth">33dip</item>
         <item name="android:maxWidth">33dip</item>
