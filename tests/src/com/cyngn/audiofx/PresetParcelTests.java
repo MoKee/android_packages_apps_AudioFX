@@ -1,8 +1,8 @@
-package org.cyanogenmod.audiofx;
+package com.mokee.audiofx;
 
 import android.os.Parcel;
 import android.support.test.runner.AndroidJUnit4;
-import org.cyanogenmod.audiofx.Preset;
+import com.mokee.audiofx.Preset;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
