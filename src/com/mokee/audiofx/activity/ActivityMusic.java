@@ -35,6 +35,7 @@ import com.mokee.audiofx.R;
 import com.mokee.audiofx.fragment.AudioFxFragment;
 import com.mokee.audiofx.knobs.KnobCommander;
 import com.mokee.audiofx.service.AudioFxService;
+import com.mokee.audiofx.service.DevicePreferenceManager;
 import com.mokee.audiofx.stats.AppState;
 import com.mokee.audiofx.stats.UserSession;
 
@@ -107,7 +108,7 @@ public class ActivityMusic extends Activity {
     }
 
     private boolean defaultsSetup() {
-        final int targetVersion = Constants.CURRENT_PREFS_INT_VERSION;
+        final int targetVersion = DevicePreferenceManager.CURRENT_PREFS_INT_VERSION;
         final SharedPreferences prefs = Constants.getGlobalPrefs(this);
         final int currentVersion = prefs.getInt(Constants.AUDIOFX_GLOBAL_PREFS_VERSION_INT, 0);
         final boolean defaultsSaved = prefs.getBoolean(Constants.SAVED_DEFAULTS, false);
