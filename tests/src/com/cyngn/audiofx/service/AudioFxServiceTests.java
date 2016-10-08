@@ -1,4 +1,4 @@
-package org.cyanogenmod.audiofx.service;
+package com.mokee.audiofx.service;
 
 import android.content.Intent;
 import android.media.audiofx.AudioEffect;
@@ -7,14 +7,14 @@ import android.support.test.runner.AndroidJUnit4;
 import android.test.suitebuilder.annotation.LargeTest;
 
 import android.util.Log;
-import org.cyanogenmod.audiofx.util.BaseAudioFxServiceInstrumentationTest;
-import org.cyanogenmod.audiofx.util.TestMediaPlayer;
+import com.mokee.audiofx.util.BaseAudioFxServiceInstrumentationTest;
+import com.mokee.audiofx.util.TestMediaPlayer;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 
-import org.cyanogenmod.audiofx.tests.R;
+import com.mokee.audiofx.tests.R;
 
 import static org.junit.Assert.*;
 

@@ -1,6 +1,6 @@
-package org.cyanogenmod.audiofx.eq;
+package com.mokee.audiofx.eq;
 
-import org.cyanogenmod.audiofx.Preset;
+import com.mokee.audiofx.Preset;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
