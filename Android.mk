@@ -18,14 +18,7 @@ LOCAL_STATIC_JAVA_LIBRARIES := android-support-v4 org.mokee.platform.sdk
 
 LOCAL_PROGUARD_ENABLED := disabled
 
-LOCAL_RESOURCE_DIR := $(addprefix $(LOCAL_PATH)/, res)
-LOCAL_AAPT_FLAGS := --auto-add-overlay
-LOCAL_AAPT_FLAGS += --extra-packages com.cyanogen.ambient
-
-LOCAL_STATIC_JAVA_AAR_LIBRARIES := ambientsdk
-
 LOCAL_PRIVILEGED_MODULE := true
-LOCAL_CERTIFICATE := platform
 
 include $(BUILD_PACKAGE)
 

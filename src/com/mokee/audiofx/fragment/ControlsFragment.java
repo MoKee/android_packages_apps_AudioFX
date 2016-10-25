@@ -29,7 +29,6 @@ import com.mokee.audiofx.R;
 import com.mokee.audiofx.activity.MasterConfigControl;
 import com.mokee.audiofx.knobs.KnobCommander;
 import com.mokee.audiofx.knobs.KnobContainer;
-import com.mokee.audiofx.stats.UserSession;
 
 public class ControlsFragment extends AudioFxBaseFragment {
 
@@ -45,7 +44,6 @@ public class ControlsFragment extends AudioFxBaseFragment {
         @Override
         public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
             if (mConfig.getMaxxVolumeEnabled() != isChecked) {
-                UserSession.getInstance().maxxVolumeToggled();
             }
             mConfig.setMaxxVolumeEnabled(isChecked);
         }

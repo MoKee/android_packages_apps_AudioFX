@@ -46,7 +46,6 @@ import com.mokee.audiofx.eq.EqContainerView;
 import com.mokee.audiofx.preset.InfinitePagerAdapter;
 import com.mokee.audiofx.preset.InfiniteViewPager;
 import com.mokee.audiofx.preset.PresetPagerAdapter;
-import com.mokee.audiofx.stats.UserSession;
 import com.mokee.audiofx.viewpagerindicator.CirclePageIndicator;
 
 public class EqualizerFragment extends AudioFxBaseFragment
@@ -516,9 +515,6 @@ public class EqualizerFragment extends AudioFxBaseFragment
             mSelectedPosition = position;
             if (!mDeviceChanging) {
                 mSelectedPositionBands = mEqManager.getPresetLevels(mSelectedPosition);
-                if (UserSession.getInstance() != null) {
-                    UserSession.getInstance().presetSelected();
-                }
             }
         }
 

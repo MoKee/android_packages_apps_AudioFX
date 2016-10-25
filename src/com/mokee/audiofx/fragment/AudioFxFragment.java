@@ -45,7 +45,6 @@ import com.mokee.audiofx.activity.ActivityMusic;
 import com.mokee.audiofx.activity.EqualizerManager;
 import com.mokee.audiofx.activity.MasterConfigControl;
 import com.mokee.audiofx.activity.StateCallbacks;
-import com.mokee.audiofx.stats.UserSession;
 import com.mokee.audiofx.widget.InterceptableLinearLayout;
 
 import java.util.List;
@@ -337,7 +336,6 @@ public class AudioFxFragment extends Fragment implements StateCallbacks.DeviceCh
         AudioDeviceInfo device = mMenuItems.get(item);
 
         if (device != null) {
-            UserSession.getInstance().deviceChanged();
             mDeviceChanging = true;
             if (item.isCheckable()) {
                 item.setChecked(!item.isChecked());

@@ -28,7 +28,6 @@ import android.view.View;
 import android.view.ViewStub;
 import android.widget.CheckBox;
 import android.widget.CompoundButton;
-import com.cyanogen.ambient.analytics.Event;
 import com.mokee.audiofx.AudioFxApplication;
 import com.mokee.audiofx.Constants;
 import com.mokee.audiofx.R;
@@ -36,8 +35,6 @@ import com.mokee.audiofx.fragment.AudioFxFragment;
 import com.mokee.audiofx.knobs.KnobCommander;
 import com.mokee.audiofx.service.AudioFxService;
 import com.mokee.audiofx.service.DevicePreferenceManager;
-import com.mokee.audiofx.stats.AppState;
-import com.mokee.audiofx.stats.UserSession;
 
 public class ActivityMusic extends Activity {
 
@@ -59,9 +56,6 @@ public class ActivityMusic extends Activity {
         @Override
         public void onCheckedChanged(final CompoundButton buttonView,
                                      final boolean isChecked) {
-            if (UserSession.getInstance() != null) {
-                UserSession.getInstance().deviceEnabledDisabled();
-            }
             mConfig.setCurrentDeviceEnabled(isChecked);
         }
     };
@@ -167,27 +161,6 @@ public class ActivityMusic extends Activity {
             stub.setLayoutResource(R.layout.action_bar_dts_logo);
             stub.inflate();
         }
-    }
-
-    @Override
-    protected void onResume() {
-        if (DEBUG) Log.i(TAG, "onResume() called with " + "");
-        super.onResume();
-
-        // initiate a new session
-        new UserSession(mCallingPackage);
-    }
-
-    @Override
-    protected void onPause() {
-        super.onPause();
-
-        if (DEBUG) Log.d(TAG, "Session: " + UserSession.getInstance());
-
-        final Event.Builder builder = new Event.Builder("session", "ended");
-        UserSession.getInstance().append(builder);
-        AppState.appendState(mConfig, KnobCommander.getInstance(this), builder);
-        ((AudioFxApplication) getApplicationContext()).sendEvent(builder.build());
     }
 
     @Override
