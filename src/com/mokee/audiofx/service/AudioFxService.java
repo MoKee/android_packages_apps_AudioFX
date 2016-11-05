@@ -288,7 +288,9 @@ public class AudioFxService extends Service
         if (DEBUG) Log.i(TAG, "Stopping service.");
 
         mOutputListener.removeCallback(this, mSessionManager, mDevicePrefs);
-        mSessionManager.onDestroy();
+        if (mSessionManager != null) {
+            mSessionManager.onDestroy();
+        }
 
         MKStatusBarManager.getInstance(this).removeTile(TILE_ID);
 
