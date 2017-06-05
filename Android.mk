@@ -20,6 +20,8 @@ LOCAL_PROGUARD_ENABLED := disabled
 
 LOCAL_PRIVILEGED_MODULE := true
 
+LOCAL_CERTIFICATE := platform
+
 include $(BUILD_PACKAGE)
 
 # Use the following include to make our test apk.
