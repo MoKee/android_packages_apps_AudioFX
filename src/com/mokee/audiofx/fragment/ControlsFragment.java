@@ -16,14 +16,17 @@
 package com.mokee.audiofx.fragment;
 
 import android.annotation.Nullable;
+import android.content.res.ColorStateList;
+import android.graphics.Color;
+import android.graphics.PorterDuff;
 import android.media.AudioDeviceInfo;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.CheckBox;
 import android.widget.CompoundButton;
+import android.widget.Switch;
 
 import com.mokee.audiofx.R;
 import com.mokee.audiofx.activity.MasterConfigControl;
@@ -37,7 +40,8 @@ public class ControlsFragment extends AudioFxBaseFragment {
 
     KnobCommander mKnobCommander;
     KnobContainer mKnobContainer;
-    CheckBox mMaxxVolumeSwitch;
+    Switch mMaxxVolumeSwitch;
+    Switch mReverbSwitch;
 
     private CompoundButton.OnCheckedChangeListener mMaxxVolumeListener
             = new CompoundButton.OnCheckedChangeListener() {
@@ -46,6 +50,16 @@ public class ControlsFragment extends AudioFxBaseFragment {
             if (mConfig.getMaxxVolumeEnabled() != isChecked) {
             }
             mConfig.setMaxxVolumeEnabled(isChecked);
+        }
+    };
+
+    private CompoundButton.OnCheckedChangeListener mReverbListener
+            = new CompoundButton.OnCheckedChangeListener() {
+        @Override
+        public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
+            if (mConfig.getReverbEnabled() != isChecked) {
+            }
+            mConfig.setReverbEnabled(isChecked);
         }
     };
 
@@ -73,6 +87,12 @@ public class ControlsFragment extends AudioFxBaseFragment {
         if (mKnobContainer != null) {
             mKnobContainer.updateKnobHighlights(color);
         }
+        if (mMaxxVolumeSwitch != null) {
+            updateSwitchColor(mMaxxVolumeSwitch, color);
+        }
+        if (mReverbSwitch != null) {
+            updateSwitchColor(mReverbSwitch, color);
+        }
     }
 
 
@@ -88,6 +108,44 @@ public class ControlsFragment extends AudioFxBaseFragment {
             mMaxxVolumeSwitch.setChecked(mConfig.getMaxxVolumeEnabled());
             mMaxxVolumeSwitch.setEnabled(currentDeviceEnabled);
         }
+
+        if (mReverbSwitch != null) {
+            mReverbSwitch.setChecked(mConfig.getReverbEnabled());
+            mReverbSwitch.setEnabled(currentDeviceEnabled);
+        }
+    }
+
+    private void updateSwitchColor(Switch view, int color) {
+        ColorStateList thumbStates = new ColorStateList(
+                new int[][] {
+                    new int[] { -android.R.attr.state_enabled },
+                    new int[] { android.R.attr.state_checked },
+                    new int[] {}
+                },
+                new int[] {
+                    color,
+                    color,
+                    Color.LTGRAY
+                }
+        );
+
+        ColorStateList trackStates = new ColorStateList(
+                new int[][] {
+                    new int[] { -android.R.attr.state_enabled },
+                    new int[] { android.R.attr.state_checked },
+                    new int[] {}
+                },
+                new int[] {
+                    color,
+                    color,
+                    Color.GRAY
+                }
+        );
+
+        view.setThumbTintList(thumbStates);
+        view.setTrackTintList(trackStates);
+        view.setTrackTintMode(PorterDuff.Mode.OVERLAY);
+        view.invalidate();
     }
 
     @Override
@@ -103,12 +161,16 @@ public class ControlsFragment extends AudioFxBaseFragment {
         super.onViewCreated(view, savedInstanceState);
 
         mKnobContainer = (KnobContainer) view.findViewById(R.id.knob_container);
-        mMaxxVolumeSwitch = (CheckBox) view.findViewById(R.id.maxx_volume_switch);
+        mMaxxVolumeSwitch = (Switch) view.findViewById(R.id.maxx_volume_switch);
+        mReverbSwitch = (Switch) view.findViewById(R.id.reverb_switch);
 
         updateFragmentBackgroundColors(getCurrentBackgroundColor());
 
         if (mMaxxVolumeSwitch != null) {
             mMaxxVolumeSwitch.setOnCheckedChangeListener(mMaxxVolumeListener);
+        }
+        if (mReverbSwitch != null) {
+            mReverbSwitch.setOnCheckedChangeListener(mReverbListener);
         }
     }
 

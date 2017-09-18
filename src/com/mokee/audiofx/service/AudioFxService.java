@@ -57,8 +57,6 @@ public class AudioFxService extends Service
 
     public static final boolean DEBUG = Log.isLoggable(TAG, Log.DEBUG);
 
-    public static final boolean ENABLE_REVERB = false;
-
     public static final String ACTION_DEVICE_OUTPUT_CHANGED
             = "com.mokee.audiofx.ACTION_DEVICE_OUTPUT_CHANGED";
 
