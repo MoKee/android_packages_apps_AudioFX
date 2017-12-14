@@ -244,7 +244,7 @@ public class DevicePreferenceManager
             // MaxxAudio defaults for builtin speaker:
             // maxxvolume: on  maxxbass: 40%  maxxtreble: 32%
             speakerPrefs.edit()
-                    .putBoolean(DEVICE_AUDIOFX_GLOBAL_ENABLE, true)
+                    .putBoolean(DEVICE_AUDIOFX_GLOBAL_ENABLE, false)
                     .putBoolean(DEVICE_AUDIOFX_MAXXVOLUME_ENABLE, true)
                     .putBoolean(DEVICE_AUDIOFX_BASS_ENABLE, true)
                     .putString(DEVICE_AUDIOFX_BASS_STRENGTH, "400")
@@ -255,7 +255,7 @@ public class DevicePreferenceManager
             // Defaults for headphones
             // maxxvolume: on  maxxbass: 20%  maxxtreble: 40%  maxxspace: 20%
             prefsFor(DEVICE_HEADSET).edit()
-                    .putBoolean(DEVICE_AUDIOFX_GLOBAL_ENABLE, true)
+                    .putBoolean(DEVICE_AUDIOFX_GLOBAL_ENABLE, false)
                     .putBoolean(DEVICE_AUDIOFX_MAXXVOLUME_ENABLE, true)
                     .putBoolean(DEVICE_AUDIOFX_BASS_ENABLE, true)
                     .putString(DEVICE_AUDIOFX_BASS_STRENGTH, "200")
@@ -269,7 +269,7 @@ public class DevicePreferenceManager
             // bass boost: 15%  virtualizer: 20%  preset: FLAT
             int flat = findInList(getNonLocalizedString(R.string.flat), presetNames);
             prefsFor(DEVICE_HEADSET).edit()
-                    .putBoolean(DEVICE_AUDIOFX_GLOBAL_ENABLE, true)
+                    .putBoolean(DEVICE_AUDIOFX_GLOBAL_ENABLE, false)
                     .putBoolean(DEVICE_AUDIOFX_BASS_ENABLE, true)
                     .putString(DEVICE_AUDIOFX_BASS_STRENGTH, "150")
                     .putBoolean(DEVICE_AUDIOFX_VIRTUALIZER_ENABLE, true)
@@ -300,7 +300,7 @@ public class DevicePreferenceManager
         int idx = findInList(smallSpeakers, presetNames);
         if (idx >= 0) {
             speakerPrefs.edit()
-                .putBoolean(DEVICE_AUDIOFX_GLOBAL_ENABLE, true)
+                .putBoolean(DEVICE_AUDIOFX_GLOBAL_ENABLE, false)
                 .putString(DEVICE_AUDIOFX_EQ_PRESET, String.valueOf(idx))
                 .commit();
         }
