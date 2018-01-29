@@ -15,8 +15,10 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">MusicFX</string>
   <!-- ControlPanelMusic strings -->
   <string name="no_effects">Efekty niedostępne</string>
+  <string name="eq_dialog_title">Equalizer</string>
   <string name="headset_plug">Podłącz słuchawki, aby usłyszeć te efekty.</string>
   <string name="bass_boost_strength">Basy</string>
   <string name="virtualizer_strength">Dźwięk przestrzenny</string>
