@@ -21,6 +21,7 @@
   <string name="snack_bar_not_default_set">设为默认</string>
   <string name="snack_bar_not_default_not_now">稍后</string>
   <string name="qs_tile_content_description">当前设备切换 AudioFX 的开关</string>
+  <string name="qs_tile_label">AudioFX (%1$s)</string>
   <string name="normal">正常</string>
   <string name="classical">古典音乐</string>
   <string name="dance">舞曲</string>
@@ -47,6 +48,7 @@
   <string name="effect_unavalable_for_speaker">效果不适用于扬声器模式。</string>
   <string name="device_headset">耳机</string>
   <string name="device_speaker">扬声器​​​​</string>
+  <string name="device_usb">USB</string>
   <string name="device_bluetooth">蓝牙</string>
   <string name="device_wireless">无线</string>
   <string name="device_line_out">线路输出</string>
