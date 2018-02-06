@@ -38,6 +38,7 @@
   <string name="effect_unavalable_for_speaker">Efectul nu este disponibil pentru modul Difuzor.</string>
   <string name="device_headset">Căști</string>
   <string name="device_speaker">Difuzor</string>
+  <string name="device_bluetooth">Bluetooth</string>
   <string name="device_line_out">Line-out</string>
   <string name="reverb">Reverberație</string>
   <string name="eq_preset">Preset egalizator</string>
