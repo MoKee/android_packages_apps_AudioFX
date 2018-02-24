@@ -17,6 +17,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="rn:oasis:names:tc:xliff:document:1.2">
+  <string name="normal">Karaniwan</string>
   <string name="custom">Custom</string>
   <string name="none">Wala</string>
   <string name="rename">Palitan ang pangalan</string>
