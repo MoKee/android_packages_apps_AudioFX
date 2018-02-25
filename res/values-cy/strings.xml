@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">MusicFX</string>
   <!-- ControlPanelMusic strings -->
   <string name="no_effects">Dyw effeithiau ddim ar gael.</string>
   <string name="eq_dialog_title">Cydraddolydd</string>
