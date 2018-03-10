@@ -15,6 +15,7 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">MusicFX</string>
   <!-- ControlPanelMusic strings -->
   <string name="no_effects">Efek tidak tersedia.</string>
   <string name="eq_dialog_title">Ekualizer</string>
