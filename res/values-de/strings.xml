@@ -15,8 +15,10 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">MusicFX</string>
   <!-- ControlPanelMusic strings -->
   <string name="no_effects">Effekte nicht verfügbar</string>
+  <string name="eq_dialog_title">Toneffekte</string>
   <string name="headset_plug">Für diese Effekte brauchst du Kopfhörer.</string>
   <string name="bass_boost_strength">Bassverstärkung</string>
   <string name="virtualizer_strength">Surround-Sound</string>
