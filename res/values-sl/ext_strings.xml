@@ -21,11 +21,17 @@
   <string name="snack_bar_not_default_set">Nastavi kot privzeto</string>
   <string name="snack_bar_not_default_not_now">Ne zdaj</string>
   <string name="qs_tile_content_description">Vklopi/Izklopi AudioFX za trenutno napravo</string>
+  <string name="qs_tile_label">AudioFX (%1$s)</string>
   <string name="normal">Običajna</string>
   <string name="classical">Klasična</string>
   <string name="dance">Plesna</string>
   <string name="flat">Ploska</string>
   <string name="folk">Ljudska</string>
+  <string name="heavy_metal">Heavy Metal</string>
+  <string name="hip_hop">Hip Hop</string>
+  <string name="jazz">Jazz</string>
+  <string name="pop">Pop</string>
+  <string name="rock">Rock</string>
   <string name="electronic">Elektronska</string>
   <string name="small_speakers">Majhni zvočniki</string>
   <string name="multimedia">Večpredstavnost</string>
@@ -42,6 +48,7 @@
   <string name="effect_unavalable_for_speaker">Učinek ni na voljo v načinu Zvočnika.</string>
   <string name="device_headset">Slušalke</string>
   <string name="device_speaker">Zvočnik</string>
+  <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
   <string name="device_wireless">Brezžično</string>
   <string name="device_line_out">Izhod za slušalke</string>

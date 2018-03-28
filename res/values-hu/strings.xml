@@ -15,6 +15,7 @@
      limitations under the License.
 -->
 <resources>
+  <string name="app_name">MusicFX</string>
   <!-- ControlPanelMusic strings -->
   <string name="no_effects">Nem állnak rendelkezésre effektek.</string>
   <string name="eq_dialog_title">Hangszín</string>
@@ -22,6 +23,7 @@
   <string name="bass_boost_strength">Mélyhangkiemelő</string>
   <string name="virtualizer_strength">Térhatású hangzás</string>
   <string name="setup">Beállítás</string>
+  <string name="ci_extreme">FX gyorsító</string>
   <string name="user">Felhasználó</string>
   <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
   <string name="picker_title">Zenei effektek kezelőpanelje</string>

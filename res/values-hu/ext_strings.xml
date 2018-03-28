@@ -21,10 +21,17 @@
   <string name="snack_bar_not_default_set">Alapértelmezettnek beállít</string>
   <string name="snack_bar_not_default_not_now">Ne most</string>
   <string name="qs_tile_content_description">AudioFX ki/bekapcsolása a jelenlegi eszközön</string>
+  <string name="qs_tile_label">AudióFX (%1$s)</string>
   <string name="normal">Normál</string>
   <string name="classical">Klasszikus</string>
+  <string name="dance">Dance</string>
   <string name="flat">Lapos</string>
   <string name="folk">Népi</string>
+  <string name="heavy_metal">Heavy Metal</string>
+  <string name="hip_hop">Hip-Hop</string>
+  <string name="jazz">Jazz</string>
+  <string name="pop">Pop</string>
+  <string name="rock">Rock</string>
   <string name="electronic">Elektronikus</string>
   <string name="small_speakers">Kis hangszórók</string>
   <string name="multimedia">Multimédia</string>
@@ -41,6 +48,7 @@
   <string name="effect_unavalable_for_speaker">Hangszórót használva az effekt nem elérhető.</string>
   <string name="device_headset">Fejhallgató</string>
   <string name="device_speaker">Hangszóró</string>
+  <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
   <string name="device_wireless">Vezeték nélküli</string>
   <string name="device_line_out">Vonal kimenet</string>
