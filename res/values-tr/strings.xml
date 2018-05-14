@@ -17,9 +17,9 @@
 <resources>
   <string name="app_name">MusicFX</string>
   <!-- ControlPanelMusic strings -->
-  <string name="no_effects">Efektler kullanılamıyor.</string>
+  <string name="no_effects">Efektler mevcut değil.</string>
   <string name="eq_dialog_title">Ekolayzer</string>
-  <string name="headset_plug">Bu efektler için kulaklığı takın.</string>
+  <string name="headset_plug">Bu efektler için kulaklık takın.</string>
   <string name="bass_boost_strength">Güçlü bas</string>
   <string name="virtualizer_strength">Surround ses</string>
   <string name="setup">Kurulum</string>

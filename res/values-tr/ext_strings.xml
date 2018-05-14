@@ -18,9 +18,9 @@
 -->
 <resources xmlns:xliff="rn:oasis:names:tc:xliff:document:1.2">
   <string name="snack_bar_not_default">AudioFX varsayılan efekt kontrol paneliniz değil.</string>
-  <string name="snack_bar_not_default_set">Varsayılan olarak ayarla</string>
+  <string name="snack_bar_not_default_set">Varsayılana ayarla</string>
   <string name="snack_bar_not_default_not_now">Şimdi değil</string>
-  <string name="qs_tile_content_description">Varsayılan cihaz için AudioFX aç/kapa</string>
+  <string name="qs_tile_content_description">Geçerli cihaz için AudioFX\'i aç/kapat</string>
   <string name="qs_tile_label">AudioFX (%1$s)</string>
   <string name="normal">Normal</string>
   <string name="classical">Klasik</string>
@@ -39,7 +39,7 @@
   <string name="custom_n">Özel <xliff:g id="preset_num">%1$d</xliff:g></string>
   <string name="none">Hiçbiri</string>
   <string name="smallroom">Küçük oda</string>
-  <string name="mediumroom">Orta boy oda</string>
+  <string name="mediumroom">Orta oda</string>
   <string name="largeroom">Geniş oda</string>
   <string name="mediumhall">Orta boy salon</string>
   <string name="largehall">Geniş salon</string>
