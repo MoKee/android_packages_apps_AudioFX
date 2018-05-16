@@ -21,11 +21,16 @@
   <string name="snack_bar_not_default_set">Ställ om till standard</string>
   <string name="snack_bar_not_default_not_now">Inte nu</string>
   <string name="qs_tile_content_description">Växla mellan AudioFX på/av för den aktuella enheten</string>
+  <string name="qs_tile_label">AudioFX (%1$s)</string>
   <string name="normal">Normal</string>
   <string name="classical">Klassisk</string>
   <string name="flat">Platt</string>
+  <string name="jazz">Jazz</string>
+  <string name="pop">Pop</string>
+  <string name="rock">Rock</string>
   <string name="electronic">Elektronisk</string>
   <string name="small_speakers">Små högtalare</string>
+  <string name="multimedia">Multimedia</string>
   <string name="custom">Anpassad</string>
   <string name="custom_n">Anpassad <xliff:g id="preset_num">%1$d</xliff:g></string>
   <string name="none">Ingen</string>
@@ -39,6 +44,7 @@
   <string name="effect_unavalable_for_speaker">Effekten finns inte tillgänglig för högtalarläge.</string>
   <string name="device_headset">Hörlurar</string>
   <string name="device_speaker">Högtalare</string>
+  <string name="device_usb">USB</string>
   <string name="device_bluetooth">Bluetooth</string>
   <string name="device_wireless">Trådlös</string>
   <string name="device_line_out">Linjeutgång</string>
