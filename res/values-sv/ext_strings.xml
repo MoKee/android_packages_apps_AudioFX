@@ -25,6 +25,8 @@
   <string name="normal">Normal</string>
   <string name="classical">Klassisk</string>
   <string name="flat">Platt</string>
+  <string name="folk">Folk</string>
+  <string name="hip_hop">Hip Hop</string>
   <string name="jazz">Jazz</string>
   <string name="pop">Pop</string>
   <string name="rock">Rock</string>

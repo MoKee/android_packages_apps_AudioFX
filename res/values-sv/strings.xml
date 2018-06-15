@@ -18,6 +18,7 @@
   <string name="app_name">MusicFX</string>
   <!-- ControlPanelMusic strings -->
   <string name="no_effects">Effekter är inte tillgängliga.</string>
+  <string name="eq_dialog_title">Equalizer</string>
   <string name="headset_plug">Du måste ansluta hörlurar för att kunna höra effekterna.</string>
   <string name="bass_boost_strength">Basförstärkning</string>
   <string name="virtualizer_strength">Surroundljud</string>
