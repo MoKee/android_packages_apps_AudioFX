@@ -17,7 +17,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="rn:oasis:names:tc:xliff:document:1.2">
-  <string name="snack_bar_not_default">AudioFXはデフォルトのエフェクトコントロールパネルに設定されていません。</string>
+  <string name="snack_bar_not_default">AudioFXはデフォルトのエフェクトコントロールパネルに設定されていません</string>
   <string name="snack_bar_not_default_set">デフォルトに設定</string>
   <string name="snack_bar_not_default_not_now">後で</string>
   <string name="qs_tile_content_description">現在のデバイスのAudioFxのON/OFFを切り替える</string>
@@ -34,7 +34,7 @@
   <string name="largehall">大きいホール</string>
   <string name="plate">プレート</string>
   <string name="power_on_prompt">右上の電源ボタンを押してください</string>
-  <string name="effect_unavalable_for_speaker">スピーカーモードではエフェクトは利用できません。</string>
+  <string name="effect_unavalable_for_speaker">スピーカーモードではエフェクトは利用できません</string>
   <string name="device_headset">ヘッドセット</string>
   <string name="device_speaker">スピーカー</string>
   <string name="device_bluetooth">ブルートゥース</string>
