@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 2ECD2531 1545118878 +0800\npushee ssh://mokeedev.review:29418/MoKee/android_packages_apps_AudioFX\nnonce 1545118878-673EF68043D56A4E83826280B56662B40ED8E78E\n\n0000000000000000000000000000000000000000 8966542ad47cc84997b6c46cc3fdd36efac481d0 refs/for/mkp\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJcGKSeAAoJEPIi9OYuzSUxoqcIAIa5W9z/p/536pyBcwCVeqHC\nG4uwDKQd/S4WUdEtyLbu3ncVzXNg29zbTkFLIGezEsj0GcrYDPvD0N4yFa42FHAr\nB7DFxynqJ2YjmQmrDO/GoqjPRVR0zlTTwL3bmu0nbcl5LYUBpguzVyo6gHN8+BfM\nfAdHlXH4UwI+QiYItaX98xVutzRmKy6flClVKBHf3SvOzyRZ2WOMbvC+6yGw3Rvv\nmnkgtXDY/yVTXYyKYtrNIB3lCLIk8Gbh5Rls0dq7d/bUxYpBtkxMPCoN0bDKUWxx\nLRiRAJvd9KatwA9kc8NCjN25a19pGZ7WablQJJa5pz2bxiALxRZgb7xwvEcyOgA\u003d\n\u003d34B4\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
