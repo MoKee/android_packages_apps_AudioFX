@@ -19,4 +19,5 @@
 <resources xmlns:xliff="rn:oasis:names:tc:xliff:document:1.2">
     <string name="custom">Прилагодено</string>
     <string name="none">Нема</string>
+    <string name="rename">Реименувај</string>
 </resources>

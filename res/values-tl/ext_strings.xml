@@ -20,5 +20,6 @@
     <string name="normal">Karaniwan</string>
     <string name="custom">Custom</string>
     <string name="none">Wala</string>
+    <string name="device_bluetooth">Bluetooth</string>
     <string name="rename">Palitan ang pangalan</string>
 </resources>
