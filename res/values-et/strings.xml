@@ -16,7 +16,6 @@
 -->
 <resources>
     <string name="app_name">MusicFX</string>
-    <!-- ControlPanelMusic strings -->
     <string name="no_effects">Efektid pole saadaval</string>
     <string name="eq_dialog_title">Ekvalaiser</string>
     <string name="headset_plug">Nende efektide jaoks ühendage kõrvaklapid</string>
@@ -25,6 +24,5 @@
     <string name="setup">Seadista</string>
     <string name="ci_extreme">FX-võimendi</string>
     <string name="user">Kasutaja</string>
-    <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
     <string name="picker_title">Muusikaefektide juhtpaneel</string>
 </resources>

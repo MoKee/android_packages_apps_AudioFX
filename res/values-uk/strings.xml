@@ -16,7 +16,6 @@
 -->
 <resources>
     <string name="app_name">MusicFX</string>
-    <!-- ControlPanelMusic strings -->
     <string name="no_effects">Ефекти не доступні</string>
     <string name="eq_dialog_title">Еквалайзер</string>
     <string name="headset_plug">Для цих ефектів підключіть гарнітуру.</string>
@@ -25,6 +24,5 @@
     <string name="setup">Налаштування</string>
     <string name="ci_extreme">FX booster</string>
     <string name="user">Користувач</string>
-    <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
     <string name="picker_title">Панель керув. музичн. ефектами</string>
 </resources>

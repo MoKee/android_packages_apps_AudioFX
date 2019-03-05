@@ -16,7 +16,6 @@
 -->
 <resources>
     <string name="app_name">MusicFX</string>
-    <!-- ControlPanelMusic strings -->
     <string name="no_effects">Imiphumela ayitholakali</string>
     <string name="eq_dialog_title">Isilinganisi somsindo</string>
     <string name="headset_plug">Xhuma okwasekhanda kule miphumela.</string>
@@ -25,6 +24,5 @@
     <string name="setup">Isethaphu</string>
     <string name="ci_extreme">Ukulekelela kwe-FX</string>
     <string name="user">Umsebenzisi</string>
-    <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
     <string name="picker_title">Iphaneli yokuphatha imphumela yomculo</string>
 </resources>
