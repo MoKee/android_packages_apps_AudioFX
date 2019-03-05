@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources>
-    <!-- ControlPanelMusic strings -->
     <string name="no_effects">Efeutos non disponibles.</string>
     <string name="eq_dialog_title">Ecualizador</string>
     <string name="headset_plug">Enchufa los cascos pa estos efeutos.</string>
@@ -23,5 +22,4 @@
     <string name="virtualizer_strength">Soníu envolvente</string>
     <string name="setup">Configuración</string>
     <string name="user">Usuariu</string>
-    <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
 </resources>

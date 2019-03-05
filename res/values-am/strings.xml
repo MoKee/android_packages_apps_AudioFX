@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources>
-    <!-- ControlPanelMusic strings -->
     <string name="no_effects">ኢፌክት አልተገኘም</string>
     <string name="eq_dialog_title">ማመጣጠኛ</string>
     <string name="headset_plug">እባክህ ለእነዚህ ኢፌክቶች የጆሮ ማዳመጫዎች ሰካ፡፡</string>
@@ -24,6 +23,5 @@
     <string name="setup">አዋቅር</string>
     <string name="ci_extreme">የኢፌክት መጨመሪያ</string>
     <string name="user">ተጠቃሚ</string>
-    <!-- title of control panel picker dialog [CHAR LIMIT=30] -->
     <string name="picker_title">የሙዚቃ ተፅዕኖ መቆጣጠሪያ ፓናል</string>
 </resources>
