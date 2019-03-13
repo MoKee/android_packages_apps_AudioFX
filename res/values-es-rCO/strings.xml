@@ -15,14 +15,12 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_name">MusicFX</string>
-    <string name="no_effects">Nem állnak rendelkezésre effektek.</string>
-    <string name="eq_dialog_title">Hangszínszabályzó</string>
-    <string name="headset_plug">Csatlakoztasson fejhallgatót ezekhez az effektekhez.</string>
-    <string name="bass_boost_strength">Mélyhangkiemelő</string>
-    <string name="virtualizer_strength">Térhatású hangzás</string>
-    <string name="setup">Beállítás</string>
-    <string name="ci_extreme">FX-gyorsító</string>
-    <string name="user">Felhasználó</string>
-    <string name="picker_title">Zenei effektek kezelőpanelje</string>
+    <string name="no_effects">Efectos no disponibles</string>
+    <string name="eq_dialog_title">Ecualizador</string>
+    <string name="headset_plug">Para disfrutar de los efectos, debes conectar los auriculares.</string>
+    <string name="bass_boost_strength">Refuerzo de graves</string>
+    <string name="virtualizer_strength">Sonido envolvente</string>
+    <string name="setup">Configuración</string>
+    <string name="user">Usuario</string>
+    <string name="picker_title">Panel de control de efectos de música</string>
 </resources>
