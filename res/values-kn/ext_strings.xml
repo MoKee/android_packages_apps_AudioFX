@@ -58,6 +58,7 @@
     <string name="virtualizer">ವರ್ಚುವಲೈಜರ್</string>
     <string name="treble">ಟ್ರೆಬಲ್</string>
     <string name="bass">ಬಾಸ್</string>
+    <string name="rename">ಮರುಹೆಸರಿಸಿ</string>
     <string name="remove_custom_preset_warning_message">%1$s ಅನ್ನು ನೀವು ತೆಗೆಯಬಯಸುತ್ತೀರಾ?</string>
     <string name="powered_by">ಇವರಿಂದ ನಡೆಸಲ್ಪಡುತ್ತಿದೆ</string>
 </resources>
