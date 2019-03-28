@@ -15,6 +15,7 @@
      limitations under the License.
 -->
 <resources>
+    <string name="app_name">MusicFX</string>
     <string name="no_effects">Efeitos não disponíveis.</string>
     <string name="eq_dialog_title">Equalizador</string>
     <string name="headset_plug">Ligue os auscultadores para estes efeitos.</string>
