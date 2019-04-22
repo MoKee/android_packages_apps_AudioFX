@@ -58,5 +58,7 @@
     <string name="virtualizer">Virtualiseerija</string>
     <string name="treble">Kõrged</string>
     <string name="bass">Bass</string>
+    <string name="rename">Nimeta ümber</string>
+    <string name="remove_custom_preset_warning_message">Kas oled kindel, et soovid %1$s-i kustutada?</string>
     <string name="powered_by">kasutatud tarkvara</string>
 </resources>
