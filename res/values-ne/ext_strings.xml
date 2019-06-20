@@ -16,7 +16,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="rn:oasis:names:tc:xliff:document:1.2">
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="custom">अनुकूलन</string>
     <string name="none">कुनै पनि होइन</string>
 </resources>
