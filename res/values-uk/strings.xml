@@ -15,12 +15,14 @@
      limitations under the License.
 -->
 <resources>
+    <string name="app_name">MusicFX</string>
     <string name="no_effects">Ефекти не доступні</string>
     <string name="eq_dialog_title">Еквалайзер</string>
     <string name="headset_plug">Для цих ефектів підключіть гарнітуру.</string>
     <string name="bass_boost_strength">Підсилення басів</string>
     <string name="virtualizer_strength">Об’ємний звук</string>
     <string name="setup">Налаштування</string>
+    <string name="ci_extreme">Підсилювач FX</string>
     <string name="user">Користувач</string>
     <string name="picker_title">Панель керув. музичн. ефектами</string>
 </resources>

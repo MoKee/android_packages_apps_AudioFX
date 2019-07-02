@@ -21,12 +21,20 @@
     <string name="snack_bar_not_default_set">Establecer como predeterminado</string>
     <string name="snack_bar_not_default_not_now">Ahora no</string>
     <string name="qs_tile_content_description">Encender/apagar AudioFX para el dispositivo actual</string>
+    <string name="qs_tile_label">AudioFX (%1$s)</string>
     <string name="normal">Normal</string>
     <string name="classical">Clásica</string>
+    <string name="dance">Dance</string>
     <string name="flat">Plana</string>
+    <string name="folk">Folk</string>
+    <string name="heavy_metal">Heavy Metal</string>
     <string name="hip_hop">Hip-Hop</string>
+    <string name="jazz">Jazz</string>
+    <string name="pop">Pop</string>
+    <string name="rock">Rock</string>
     <string name="electronic">Electrónica</string>
     <string name="small_speakers">Altavoces pequeños</string>
+    <string name="multimedia">Multimedia</string>
     <string name="custom">Personalizado</string>
     <string name="custom_n">Personalizado <xliff:g id="preset_num">%1$d</xliff:g></string>
     <string name="none">Ninguno</string>
@@ -40,6 +48,7 @@
     <string name="effect_unavalable_for_speaker">Efecto no disponible para el modo altavoz.</string>
     <string name="device_headset">Auriculares</string>
     <string name="device_speaker">Altavoz</string>
+    <string name="device_usb">USB</string>
     <string name="device_bluetooth">Bluetooth</string>
     <string name="device_wireless">Inalámbrico</string>
     <string name="device_line_out">Salida de línea</string>
@@ -51,5 +60,5 @@
     <string name="bass">Bajos</string>
     <string name="rename">Renombrar</string>
     <string name="remove_custom_preset_warning_message">¿Está seguro que desea eliminar %1$s?</string>
-    <string name="powered_by">funciona con</string>
+    <string name="powered_by">Desarrollado por</string>
 </resources>

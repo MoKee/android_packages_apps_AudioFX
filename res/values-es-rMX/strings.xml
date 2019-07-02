@@ -15,12 +15,14 @@
      limitations under the License.
 -->
 <resources>
+    <string name="app_name">MusicFX</string>
     <string name="no_effects">Efectos no disponibles</string>
     <string name="eq_dialog_title">Ecualizador</string>
     <string name="headset_plug">Para disfrutar de los efectos, debes conectar los auriculares.</string>
     <string name="bass_boost_strength">Refuerzo de graves</string>
     <string name="virtualizer_strength">Sonido envolvente</string>
     <string name="setup">Configuración</string>
+    <string name="ci_extreme">Potenciador FX</string>
     <string name="user">Usuario</string>
     <string name="picker_title">Panel de control de efectos de música</string>
 </resources>
