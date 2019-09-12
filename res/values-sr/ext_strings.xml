@@ -21,6 +21,7 @@
     <string name="snack_bar_not_default_set">Постави подразумевано</string>
     <string name="snack_bar_not_default_not_now">Не сад</string>
     <string name="qs_tile_content_description">Укључи/искључи AudioFX за тренутни уређај</string>
+    <string name="qs_tile_label">AudioFX (%1$s)</string>
     <string name="normal">Нормално</string>
     <string name="classical">Класика</string>
     <string name="dance">Денс</string>
@@ -47,8 +48,11 @@
     <string name="effect_unavalable_for_speaker">Ефекат није доступан за режим Звучника.</string>
     <string name="device_headset">Слушалице</string>
     <string name="device_speaker">Звучник</string>
+    <string name="device_usb">USB</string>
     <string name="device_bluetooth">Блутут</string>
+    <string name="device_wireless">Wireless</string>
     <string name="device_line_out">Излаз</string>
+    <string name="reverb">Reverb</string>
     <string name="eq_preset">Еквилајзер унапред постављен</string>
     <string name="devices">Уређаји</string>
     <string name="virtualizer">Визуелно</string>
