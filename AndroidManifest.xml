@@ -15,7 +15,7 @@
 -->
 <manifest
         xmlns:android="http://schemas.android.com/apk/res/android"
-        package="org.lineageos.audiofx"
+        package="org.mokee.audiofx"
         android:versionName="2.2.0"
         android:versionCode="20200">
 
@@ -28,12 +28,12 @@
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
     <uses-permission android:name="android.permission.VIBRATE" />
 
-    <uses-permission android:name="lineageos.permission.OBSERVE_AUDIO_SESSIONS" />
+    <uses-permission android:name="mokee.permission.OBSERVE_AUDIO_SESSIONS" />
 
     <application
             android:icon="@mipmap/ic_launcher"
             android:allowBackup="false"
-            android:label="@string/app_name_lineage"
+            android:label="@string/app_name_mk"
             android:supportsRtl="true"
             android:persistent="true"
             android:appCategory="audio"
@@ -43,7 +43,7 @@
         <activity
                 android:name=".activity.ActivityMusic"
                 android:theme="@style/AppThemeV2"
-                android:label="@string/app_name_lineage"
+                android:label="@string/app_name_mk"
                 android:launchMode="singleInstance"
                 android:configChanges="locale|orientation">
             <intent-filter>
@@ -96,7 +96,7 @@
                 <action android:name="android.media.action.OPEN_AUDIO_EFFECT_CONTROL_SESSION"/>
                 <action android:name="android.media.action.CLOSE_AUDIO_EFFECT_CONTROL_SESSION"/>
                 <action android:name="android.media.AUDIO_BECOMING_NOISY"/>
-                <action android:name="lineageos.intent.action.ACTION_AUDIO_SESSIONS_CHANGED" />
+                <action android:name="mokee.intent.action.ACTION_AUDIO_SESSIONS_CHANGED" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </receiver>

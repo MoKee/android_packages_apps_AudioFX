@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="org.lineageos.audiofx.tests">
+          package="org.mokee.audiofx.tests">
 
     <application android:label="@string/app_name">
         <uses-library android:name="android.test.runner" />
@@ -16,5 +16,5 @@
 
     <instrumentation
             android:name="androidx.test.runner.AndroidJUnitRunner"
-            android:targetPackage="org.lineageos.audiofx" />
+            android:targetPackage="org.mokee.audiofx" />
 </manifest>
