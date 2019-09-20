@@ -1,0 +1,2 @@
+res/values-*/ext_strings.xml merge=ours
+res/values-*/strings.xml merge=ours
