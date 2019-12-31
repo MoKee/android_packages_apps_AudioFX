@@ -17,7 +17,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="rn:oasis:names:tc:xliff:document:1.2">
-    <string name="snack_bar_not_default">AudioFX no es su controlador de efectos predeterminado.</string>
+    <string name="snack_bar_not_default">AudioFX no es el controlador de efectos predeterminado.</string>
     <string name="snack_bar_not_default_set">Establecer como predeterminado</string>
     <string name="snack_bar_not_default_not_now">Ahora no</string>
     <string name="qs_tile_content_description">Encender/apagar AudioFX para el dispositivo actual</string>

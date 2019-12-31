@@ -22,7 +22,7 @@
     <string name="bass_boost_strength">Refuerzo de graves</string>
     <string name="virtualizer_strength">Sonido envolvente</string>
     <string name="setup">Configuración</string>
-    <string name="ci_extreme">Potenciador FX</string>
+    <string name="ci_extreme">FX booster</string>
     <string name="user">Usuario</string>
     <string name="picker_title">Panel de control de efectos de música</string>
 </resources>
