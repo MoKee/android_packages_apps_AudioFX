@@ -22,7 +22,7 @@
     <string name="snack_bar_not_default_not_now">Не цяпер</string>
     <string name="qs_tile_content_description">Уключыць або выключыць AudioFX на гэтай прыладзе</string>
     <string name="qs_tile_label">AudioFX (%1$s)</string>
-    <string name="normal">Звычайная</string>
+    <string name="normal">Звычайны</string>
     <string name="classical">Класічная</string>
     <string name="dance">Танцы</string>
     <string name="flat">Пляската</string>
@@ -58,7 +58,7 @@
     <string name="virtualizer">Віртуалізацыя</string>
     <string name="treble">Высокія частоты</string>
     <string name="bass">Бас</string>
-    <string name="rename">Пераназваць</string>
+    <string name="rename">Перайменаваць</string>
     <string name="remove_custom_preset_warning_message">Сапраўды жадаеш выдаліць %1$s?</string>
     <string name="powered_by">працуе на</string>
 </resources>

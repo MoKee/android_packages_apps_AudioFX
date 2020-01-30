@@ -22,12 +22,12 @@
     <string name="snack_bar_not_default_not_now">Не сейчас</string>
     <string name="qs_tile_content_description">Включить или выключить AudioFX на этом устройстве</string>
     <string name="qs_tile_label">AudioFX (%1$s)</string>
-    <string name="normal">Стандартный</string>
+    <string name="normal">Обычный</string>
     <string name="classical">Классика</string>
     <string name="dance">Танцевальная музыка</string>
     <string name="flat">Плоско</string>
     <string name="folk">Фолк</string>
-    <string name="heavy_metal">Хэви-метал</string>
+    <string name="heavy_metal">Тяжелый металл</string>
     <string name="hip_hop">Хип-хоп</string>
     <string name="jazz">Джаз</string>
     <string name="pop">Поп</string>
@@ -37,7 +37,7 @@
     <string name="multimedia">Мультимедиа</string>
     <string name="custom">Пользовательские настр.</string>
     <string name="custom_n">Пользоват. <xliff:g id="preset_num">%1$d</xliff:g></string>
-    <string name="none">Нет</string>
+    <string name="none">Без эффекта</string>
     <string name="smallroom">Маленькая комната</string>
     <string name="mediumroom">Средняя комната</string>
     <string name="largeroom">Большая комната</string>
@@ -56,9 +56,9 @@
     <string name="eq_preset">Предуст. эквалайзера</string>
     <string name="devices">Устройства</string>
     <string name="virtualizer">Виртуализатор</string>
-    <string name="treble">Высокие</string>
-    <string name="bass">НЧ</string>
+    <string name="treble">Высокие частоты</string>
+    <string name="bass">Низкие частоты</string>
     <string name="rename">Переименовать</string>
     <string name="remove_custom_preset_warning_message">Действительно удалить «%1$s»?</string>
-    <string name="powered_by">Технологии</string>
+    <string name="powered_by">разработано</string>
 </resources>

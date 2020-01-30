@@ -37,7 +37,7 @@
     <string name="multimedia">Multimedia</string>
     <string name="custom">Personalizado</string>
     <string name="custom_n">Personalizado <xliff:g id="preset_num">%1$d</xliff:g></string>
-    <string name="none">Ninguno</string>
+    <string name="none">Ninguna</string>
     <string name="smallroom">Habitación pequeña</string>
     <string name="mediumroom">Habitación mediana</string>
     <string name="largeroom">Gran habitación</string>
@@ -60,5 +60,5 @@
     <string name="bass">Bajos</string>
     <string name="rename">Renombrar</string>
     <string name="remove_custom_preset_warning_message">¿Está seguro que desea eliminar %1$s?</string>
-    <string name="powered_by">funciona con</string>
+    <string name="powered_by">Desarrollado por</string>
 </resources>

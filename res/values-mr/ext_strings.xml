@@ -41,8 +41,6 @@
     <string name="effect_unavalable_for_speaker">स्पीकर मोडसाठी प्रभाव उपलब्ध नाही.</string>
     <string name="device_headset">हेडसेट</string>
     <string name="device_speaker">स्पीकर</string>
-    <string name="device_usb">USB</string>
-    <string name="device_bluetooth">ब</string>
     <string name="device_wireless">बिनतारी</string>
     <string name="reverb">रिव्हर्ब</string>
     <string name="eq_preset">इक्वेलायझर प्रीसेट</string>

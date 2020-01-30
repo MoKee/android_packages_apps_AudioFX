@@ -49,7 +49,7 @@
     <string name="device_headset">耳機</string>
     <string name="device_speaker">喇叭</string>
     <string name="device_usb">USB</string>
-    <string name="device_bluetooth">藍牙</string>
+    <string name="device_bluetooth">藍牙裝置</string>
     <string name="device_wireless">無綫</string>
     <string name="device_line_out">線路輸出</string>
     <string name="reverb">混響效果</string>

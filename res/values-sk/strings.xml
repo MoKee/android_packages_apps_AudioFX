@@ -21,7 +21,7 @@
     <string name="headset_plug">Ak chcete počuť tieto efekty, pripojte slúchadlá</string>
     <string name="bass_boost_strength">Zosilnenie basov</string>
     <string name="virtualizer_strength">Priestorový zvuk</string>
-    <string name="setup">Nastavenie</string>
+    <string name="setup">Konfigurácia</string>
     <string name="ci_extreme">FX Booster</string>
     <string name="user">Vlastné</string>
     <string name="picker_title">Ovládací panel hudobných efektov</string>

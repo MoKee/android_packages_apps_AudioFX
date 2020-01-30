@@ -17,7 +17,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="normal">عادی</string>
     <string name="classical">کلاسیک</string>
     <string name="dance">رقص</string>
     <string name="flat">صاف</string>
@@ -42,7 +41,7 @@
     <string name="device_headset">هدست</string>
     <string name="device_speaker">بلندگو</string>
     <string name="device_usb">یواس‌بی</string>
-    <string name="device_bluetooth">بلوتوث</string>
+    <string name="device_bluetooth">بلوث</string>
     <string name="device_wireless">بی‌سیم</string>
     <string name="reverb">طنین</string>
     <string name="eq_preset">اکولایزر تنظیم شده</string>

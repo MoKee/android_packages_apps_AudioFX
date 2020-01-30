@@ -22,7 +22,7 @@
     <string name="snack_bar_not_default_not_now">Ne zdaj</string>
     <string name="qs_tile_content_description">Vklopi/Izklopi AudioFX za trenutno napravo</string>
     <string name="qs_tile_label">AudioFX (%1$s)</string>
-    <string name="normal">Običajna</string>
+    <string name="normal">Običajno</string>
     <string name="classical">Klasična</string>
     <string name="dance">Plesna</string>
     <string name="flat">Ploska</string>

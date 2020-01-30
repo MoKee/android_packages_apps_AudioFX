@@ -41,8 +41,6 @@
     <string name="effect_unavalable_for_speaker">സ്പീക്കർ മോഡിൽ ഇഫക്‌ട് ലഭ്യമല്ല.</string>
     <string name="device_headset">ഹെഡ്സെറ്റ്</string>
     <string name="device_speaker">സ്പീക്കർ</string>
-    <string name="device_usb">USB</string>
-    <string name="device_bluetooth">ബ്ലൂടൂത്ത്</string>
     <string name="device_wireless">വയർലെസ്</string>
     <string name="reverb">പ്രതിധ്വനി</string>
     <string name="eq_preset">ഈക്വലൈസര്‍ പ്രീസെറ്റ്</string>

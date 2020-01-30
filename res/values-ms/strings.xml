@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_name">MusicFX</string>
     <string name="no_effects">Kesan tidak tersedia.</string>
     <string name="eq_dialog_title">Penyama</string>
     <string name="headset_plug">Pasangkan fon kepala untuk kesan ini.</string>

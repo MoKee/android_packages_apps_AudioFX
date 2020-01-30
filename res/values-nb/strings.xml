@@ -15,9 +15,7 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_name">MusicFX</string>
     <string name="no_effects">Effekter er ikke tilgjengelige.</string>
-    <string name="eq_dialog_title">Equalizer</string>
     <string name="headset_plug">Sett inn hodetelefoner for å oppleve disse effektene.</string>
     <string name="bass_boost_strength">Bassforsterking</string>
     <string name="virtualizer_strength">Surround-lyd</string>

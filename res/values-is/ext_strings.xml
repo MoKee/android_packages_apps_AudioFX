@@ -17,8 +17,6 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="snack_bar_not_default">AudioFX er ekki sjálfgefna stjórnborðið þitt fyrir hljómbrellur.</string>
     <string name="custom">Sérsniðinn</string>
     <string name="none">Engin</string>
-    <string name="virtualizer">Sýndarhljómur</string>
 </resources>

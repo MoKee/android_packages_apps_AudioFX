@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_name">MusicFX</string>
     <string name="no_effects">ኢፌክት አልተገኘም</string>
     <string name="eq_dialog_title">ማመጣጠኛ</string>
     <string name="headset_plug">እባክህ ለእነዚህ ኢፌክቶች የጆሮ ማዳመጫዎች ሰካ፡፡</string>

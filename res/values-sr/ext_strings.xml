@@ -37,7 +37,7 @@
     <string name="multimedia">Мултимедија</string>
     <string name="custom">Прилагођено</string>
     <string name="custom_n">Прилагођено <xliff:g id="preset_num">%1$d</xliff:g></string>
-    <string name="none">Ниједно</string>
+    <string name="none">Ниједан</string>
     <string name="smallroom">Мала соба</string>
     <string name="mediumroom">Средња соба</string>
     <string name="largeroom">Велика соба</string>
@@ -49,7 +49,7 @@
     <string name="device_headset">Слушалице</string>
     <string name="device_speaker">Звучник</string>
     <string name="device_usb">USB</string>
-    <string name="device_bluetooth">Bluetooth</string>
+    <string name="device_bluetooth">Блутут</string>
     <string name="device_wireless">Wireless</string>
     <string name="device_line_out">Излаз</string>
     <string name="reverb">Reverb</string>
@@ -58,7 +58,7 @@
     <string name="virtualizer">Визуелно</string>
     <string name="treble">Високи</string>
     <string name="bass">Бас</string>
-    <string name="rename">Преименуј</string>
+    <string name="rename">Преименовање</string>
     <string name="remove_custom_preset_warning_message">Да ли сигурно желиш уклонити %1$s?</string>
     <string name="powered_by">омогућено од</string>
 </resources>

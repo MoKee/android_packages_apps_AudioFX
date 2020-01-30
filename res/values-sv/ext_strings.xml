@@ -24,10 +24,8 @@
     <string name="qs_tile_label">AudioFX (%1$s)</string>
     <string name="normal">Normal</string>
     <string name="classical">Klassisk</string>
-    <string name="dance">Dance</string>
     <string name="flat">Platt</string>
     <string name="folk">Folk</string>
-    <string name="heavy_metal">Heavy Metal</string>
     <string name="hip_hop">Hip Hop</string>
     <string name="jazz">Jazz</string>
     <string name="pop">Pop</string>

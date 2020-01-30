@@ -37,7 +37,7 @@
     <string name="multimedia">Multimedia</string>
     <string name="custom">Khusus</string>
     <string name="custom_n">Kustom <xliff:g id="preset_num">%1$d</xliff:g></string>
-    <string name="none">Tidak Ada</string>
+    <string name="none">Tidak ada</string>
     <string name="smallroom">Ruang kecil</string>
     <string name="mediumroom">Ruang sedang</string>
     <string name="largeroom">Ruang besar</string>
@@ -56,9 +56,9 @@
     <string name="eq_preset">Preset equalizer</string>
     <string name="devices">Perangkat</string>
     <string name="virtualizer">Virtualizer</string>
-    <string name="treble">Treble</string>
+    <string name="treble">Trebel</string>
     <string name="bass">Bass</string>
-    <string name="rename">Ubah Nama</string>
+    <string name="rename">Ganti nama</string>
     <string name="remove_custom_preset_warning_message">Apakah Anda yakin ingin menghapus %1$s?</string>
     <string name="powered_by">didukung oleh</string>
 </resources>

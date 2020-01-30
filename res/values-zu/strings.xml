@@ -15,11 +15,9 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_name">MusicFX</string>
     <string name="no_effects">Imiphumela ayitholakali</string>
     <string name="eq_dialog_title">Isilinganisi somsindo</string>
     <string name="headset_plug">Xhuma okwasekhanda kule miphumela.</string>
-    <string name="bass_boost_strength">Bass boost</string>
     <string name="virtualizer_strength">Umsindo ozungelezile</string>
     <string name="setup">Isethaphu</string>
     <string name="ci_extreme">Ukulekelela kwe-FX</string>

@@ -22,7 +22,7 @@
     <string name="snack_bar_not_default_not_now">Teď ne</string>
     <string name="qs_tile_content_description">Přepnout stav AudioFX</string>
     <string name="qs_tile_label">AudioFX (%1$s)</string>
-    <string name="normal">Normalní</string>
+    <string name="normal">Normální</string>
     <string name="classical">Klasická hudba</string>
     <string name="dance">Taneční</string>
     <string name="flat">Plochý</string>
@@ -49,7 +49,7 @@
     <string name="device_headset">Sluchátka</string>
     <string name="device_speaker">Reproduktor</string>
     <string name="device_usb">USB</string>
-    <string name="device_bluetooth">Bluetooth</string>
+    <string name="device_bluetooth">Zařízení Bluetooth</string>
     <string name="device_wireless">Bezdrátové</string>
     <string name="device_line_out">Linkový výstup</string>
     <string name="reverb">Dozvuku</string>
@@ -60,5 +60,5 @@
     <string name="bass">Basy</string>
     <string name="rename">Přejmenovat</string>
     <string name="remove_custom_preset_warning_message">Opravdu chcete odstranit %1$s?</string>
-    <string name="powered_by">Využívá služby</string>
+    <string name="powered_by">využívá služby</string>
 </resources>

@@ -15,7 +15,6 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_name">MusicFX</string>
     <string name="no_effects">효과를 사용할 수 없습니다.</string>
     <string name="eq_dialog_title">이퀄라이저</string>
     <string name="headset_plug">이 효과를 사용하려면 헤드폰을 연결하시기 바랍니다.</string>

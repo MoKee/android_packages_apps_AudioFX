@@ -35,7 +35,7 @@
     <string name="electronic">Electronică</string>
     <string name="small_speakers">Difuzoare Mici</string>
     <string name="multimedia">Multimedia</string>
-    <string name="custom">Personalizat</string>
+    <string name="custom">Particularizat</string>
     <string name="custom_n">Personalizat <xliff:g id="preset_num">%1$d</xliff:g></string>
     <string name="none">Niciunul</string>
     <string name="smallroom">Cameră mică</string>
@@ -55,10 +55,10 @@
     <string name="reverb">Reverberație</string>
     <string name="eq_preset">Preset egalizator</string>
     <string name="devices">Dispozitive</string>
-    <string name="virtualizer">Virtualizer</string>
+    <string name="virtualizer">Virtualizator</string>
     <string name="treble">Sunete înalte</string>
     <string name="bass">Bas</string>
-    <string name="rename">Redenumire</string>
+    <string name="rename">Redenumiți</string>
     <string name="remove_custom_preset_warning_message">Sigur doriți să eliminați %1$s?</string>
     <string name="powered_by">powered by</string>
 </resources>
