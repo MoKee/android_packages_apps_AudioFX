@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="normal">Նորմալ</string>
     <string name="custom">Հատուկ</string>
     <string name="none">Ոչ մեկը</string>
 </resources>
