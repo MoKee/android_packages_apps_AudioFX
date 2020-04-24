@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default_not_now">இப்போது வேண்டாம்</string>
     <string name="normal">இயல்பு</string>
     <string name="classical">கிளாசிக்கல்</string>
     <string name="dance">டான்ஸ்</string>
@@ -40,7 +41,12 @@
     <string name="effect_unavalable_for_speaker">ஒலிப்பெருக்கி பயன்முறையில் விளைவு கிடைக்கவில்லை.</string>
     <string name="device_headset">தலையணி</string>
     <string name="device_speaker">ஸ்பீக்கர்</string>
+    <string name="device_usb">USB</string>
+    <string name="device_bluetooth">Bluetooth</string>
     <string name="device_wireless">கம்பியில்லா</string>
     <string name="reverb">எதிர்முழக்கம்</string>
     <string name="eq_preset">சமனாக்கி முன்னமை</string>
+    <string name="devices">சாதனங்கள்</string>
+    <string name="rename">மறுபெயரிடு</string>
+    <string name="powered_by">வழங்குவது</string>
 </resources>

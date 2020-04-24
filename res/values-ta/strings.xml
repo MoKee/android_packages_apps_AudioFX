@@ -14,9 +14,7 @@
      limitations under the License.
 -->
 <resources>
-    <string name="eq_dialog_title">Cothromaiche</string>
-    <string name="headset_plug">Cuir a-steach headphones airson nan èifeachdan seo.</string>
-    <string name="bass_boost_strength">Spionnadh a’ bheus</string>
-    <string name="setup">Suidheachadh</string>
-    <string name="user">Cleachdaiche</string>
+    <string name="app_name">MusicFX</string>
+    <string name="no_effects">விளைவுகள் கிடைக்கவில்லை.</string>
+    <string name="user">பயனர்</string>
 </resources>

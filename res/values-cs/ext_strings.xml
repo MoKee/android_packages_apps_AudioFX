@@ -51,7 +51,7 @@
     <string name="device_bluetooth">Zařízení Bluetooth</string>
     <string name="device_wireless">Bezdrátové</string>
     <string name="device_line_out">Linkový výstup</string>
-    <string name="reverb">Dozvuku</string>
+    <string name="reverb">Dozvuk</string>
     <string name="eq_preset">Předvolba ekvalizéru</string>
     <string name="devices">Zařízení</string>
     <string name="virtualizer">Virtualizér</string>
