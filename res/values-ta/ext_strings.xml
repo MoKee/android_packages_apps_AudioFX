@@ -16,7 +16,11 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default">AudioFX உங்கள் இயல்புநிலை விளைவுகள் கட்டுப்பாட்டு பலகை அல்ல.</string>
+    <string name="snack_bar_not_default_set">இயல்புநிலையை அமை</string>
     <string name="snack_bar_not_default_not_now">இப்போது வேண்டாம்</string>
+    <string name="qs_tile_content_description">தற்போதைய சாதனத்திற்கு ஆடியோFX இயக்கவும் அல்லது அணைக்கவும்</string>
+    <string name="qs_tile_label">AudioFX (%1$s)</string>
     <string name="normal">இயல்பு</string>
     <string name="classical">கிளாசிக்கல்</string>
     <string name="dance">டான்ஸ்</string>

@@ -16,5 +16,6 @@
 <resources>
     <string name="app_name">MusicFX</string>
     <string name="no_effects">விளைவுகள் கிடைக்கவில்லை.</string>
+    <string name="setup">அமைவு</string>
     <string name="user">பயனர்</string>
 </resources>
