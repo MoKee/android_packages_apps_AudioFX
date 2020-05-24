@@ -51,6 +51,7 @@
     <string name="reverb">எதிர்முழக்கம்</string>
     <string name="eq_preset">சமனாக்கி முன்னமை</string>
     <string name="devices">சாதனங்கள்</string>
+    <string name="bass">பாஸ்</string>
     <string name="rename">மறுபெயரிடு</string>
     <string name="powered_by">வழங்குவது</string>
 </resources>
