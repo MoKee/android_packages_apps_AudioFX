@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="normal">عام </string>
     <string name="custom">حسب ضرورت</string>
     <string name="none">کوئی نہیں</string>
 </resources>
