@@ -34,6 +34,7 @@
     <string name="electronic">மின்னணு</string>
     <string name="small_speakers">சிறிய ஒலிபெருக்கிகள்</string>
     <string name="custom">தனிப்பயன்</string>
+    <string name="custom_n">தனிப்பயன் <xliff:g id="preset_num">%1$d</xliff:g></string>
     <string name="none">ஏதுமில்லை</string>
     <string name="smallroom">சிறிய அறை</string>
     <string name="mediumroom">நடுத்தர அறை</string>
