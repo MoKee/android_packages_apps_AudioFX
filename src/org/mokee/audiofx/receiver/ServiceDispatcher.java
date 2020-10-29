@@ -24,7 +24,7 @@ import android.util.Log;
 import org.mokee.audiofx.service.AudioFxService;
 
 import mokee.media.AudioSessionInfo;
-import mokee.media.MKAudioManager;
+import mokee.media.MoKeeAudioManager;
 
 public class ServiceDispatcher extends BroadcastReceiver {
     @Override
@@ -42,14 +42,14 @@ public class ServiceDispatcher extends BroadcastReceiver {
             service.putExtra(AudioEffect.EXTRA_AUDIO_SESSION, sessionId);
             service.putExtra(AudioEffect.EXTRA_PACKAGE_NAME, pkg);
 
-        } else if (action.equals(MKAudioManager.ACTION_AUDIO_SESSIONS_CHANGED)) {
+        } else if (action.equals(MoKeeAudioManager.ACTION_AUDIO_SESSIONS_CHANGED)) {
 
-            // callback from MKAudioService
+            // callback from MoKeeAudioService
             final AudioSessionInfo info = (AudioSessionInfo) intent.getParcelableExtra(
-                    MKAudioManager.EXTRA_SESSION_INFO);
-            boolean added = intent.getBooleanExtra(MKAudioManager.EXTRA_SESSION_ADDED, false);
-            service.putExtra(MKAudioManager.EXTRA_SESSION_INFO, info);
-            service.putExtra(MKAudioManager.EXTRA_SESSION_ADDED, added);
+                    MoKeeAudioManager.EXTRA_SESSION_INFO);
+            boolean added = intent.getBooleanExtra(MoKeeAudioManager.EXTRA_SESSION_ADDED, false);
+            service.putExtra(MoKeeAudioManager.EXTRA_SESSION_INFO, info);
+            service.putExtra(MoKeeAudioManager.EXTRA_SESSION_ADDED, added);
         }
 
         service.setAction(action);

@@ -52,7 +52,7 @@ import org.mokee.audiofx.backends.EffectsFactory;
 import org.mokee.audiofx.eq.EqUtils;
 
 import mokee.media.AudioSessionInfo;
-import mokee.media.MKAudioManager;
+import mokee.media.MoKeeAudioManager;
 
 class SessionManager implements AudioOutputChangeListener.AudioOutputChangedCallback {
 
@@ -62,7 +62,7 @@ class SessionManager implements AudioOutputChangeListener.AudioOutputChangedCall
     private final Context mContext;
     private final Handler mHandler;
     private final DevicePreferenceManager mDevicePrefs;
-    private final MKAudioManager mMKAudio;
+    private final MoKeeAudioManager mMKAudio;
 
     /**
      * All fields ending with L should be locked on {@link #mAudioSessionsL}
@@ -82,7 +82,7 @@ class SessionManager implements AudioOutputChangeListener.AudioOutputChangedCall
     public SessionManager(Context context, Handler handler, DevicePreferenceManager devicePrefs,
             AudioDeviceInfo outputDevice) {
         mContext = context;
-        mMKAudio = MKAudioManager.getInstance(context);
+        mMKAudio = MoKeeAudioManager.getInstance(context);
         mDevicePrefs = devicePrefs;
         mCurrentDevice = outputDevice;
         mHandler = new Handler(handler.getLooper(), new AudioServiceHandler());
