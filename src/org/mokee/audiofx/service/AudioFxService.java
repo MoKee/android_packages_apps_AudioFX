@@ -37,7 +37,7 @@ import java.lang.ref.WeakReference;
 import java.util.Locale;
 
 import mokee.media.AudioSessionInfo;
-import mokee.media.MKAudioManager;
+import mokee.media.MoKeeAudioManager;
 
 /**
  * This service is responsible for applying all requested effects from the AudioFX UI.
@@ -138,7 +138,7 @@ public class AudioFxService extends Service
                 mCurrentDevice);
         mOutputListener.addCallback(mDevicePrefs, mSessionManager);
 
-        final MKAudioManager mam = MKAudioManager.getInstance(getApplicationContext());
+        final MoKeeAudioManager mam = MoKeeAudioManager.getInstance(getApplicationContext());
         for (AudioSessionInfo asi : mam.listAudioSessions(AudioManager.STREAM_MUSIC)) {
             mSessionManager.addSession(asi);
         }
@@ -171,13 +171,13 @@ public class AudioFxService extends Service
                 AudioSessionInfo info = new AudioSessionInfo(sessionId, stream, -1, -1, -1);
                 mSessionManager.removeSession(info);
 
-            } else if (action.equals(MKAudioManager.ACTION_AUDIO_SESSIONS_CHANGED)) {
+            } else if (action.equals(MoKeeAudioManager.ACTION_AUDIO_SESSIONS_CHANGED)) {
 
                 final AudioSessionInfo info = (AudioSessionInfo) intent.getParcelableExtra(
-                        MKAudioManager.EXTRA_SESSION_INFO);
+                        MoKeeAudioManager.EXTRA_SESSION_INFO);
                 if (info != null && info.getSessionId() > 0) {
                     boolean added = intent.getBooleanExtra(
-                            MKAudioManager.EXTRA_SESSION_ADDED, false);
+                            MoKeeAudioManager.EXTRA_SESSION_ADDED, false);
                     if (added) {
                         mSessionManager.addSession(info);
                     } else {
