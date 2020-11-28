@@ -14,5 +14,12 @@
      limitations under the License.
 -->
 <resources>
+    <string name="no_effects">Efektet nuk janë të disponueshme.</string>
+    <string name="eq_dialog_title">Barazues</string>
+    <string name="headset_plug">Lidhni kufjet për këto efekte.</string>
+    <string name="bass_boost_strength">Nxitje e basit</string>
+    <string name="virtualizer_strength">Tingulli rrethues</string>
     <string name="setup">Konfiguro</string>
+    <string name="user">përdoruesi</string>
+    <string name="picker_title">Paneli i kontrollit të efekteve muzikore</string>
 </resources>
