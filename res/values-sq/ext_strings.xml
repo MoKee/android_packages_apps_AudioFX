@@ -48,6 +48,7 @@
     <string name="device_headset">Kufje</string>
     <string name="device_speaker">Altoparlant</string>
     <string name="device_usb">USB</string>
+    <string name="device_bluetooth">Bluetooth</string>
     <string name="device_wireless">Pa tel</string>
     <string name="device_line_out">Linja dalëse</string>
     <string name="reverb">Kumbimi</string>
