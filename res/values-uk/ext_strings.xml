@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2014-2015 The CyanogenMod Project
-     Copyright (C) 2014-2019 The MoKee Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -21,7 +20,7 @@
     <string name="snack_bar_not_default_not_now">Не зараз</string>
     <string name="qs_tile_content_description">Увімкнути або вимкнути AudioFX на цьому пристрої</string>
     <string name="qs_tile_label">AudioFX (%1$s)</string>
-    <string name="normal">Нормально</string>
+    <string name="normal">Нормальний</string>
     <string name="classical">Класика</string>
     <string name="dance">Танцювальна</string>
     <string name="flat">Плоско</string>
@@ -34,9 +33,9 @@
     <string name="electronic">Електронна</string>
     <string name="small_speakers">Маленькі динаміки</string>
     <string name="multimedia">Мультимедіа</string>
-    <string name="custom">Користувацький</string>
+    <string name="custom">Користувач</string>
     <string name="custom_n">Корист. <xliff:g id="preset_num">%1$d </xliff:g></string>
-    <string name="none">Нічого</string>
+    <string name="none">Немає</string>
     <string name="smallroom">Мала кімната</string>
     <string name="mediumroom">Середня кімната</string>
     <string name="largeroom">Велика кімната</string>
@@ -57,7 +56,7 @@
     <string name="virtualizer">Віртуалізатор</string>
     <string name="treble">Високі</string>
     <string name="bass">Низькі частоти</string>
-    <string name="rename">Перейменувати</string>
+    <string name="rename">Змінити назву</string>
     <string name="remove_custom_preset_warning_message">Ви дійсно бажаєте видалити %1$s?</string>
     <string name="powered_by">працює на</string>
 </resources>

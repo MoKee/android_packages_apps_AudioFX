@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2014-2015 The CyanogenMod Project
-     Copyright (C) 2014-2019 The MoKee Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -20,6 +19,7 @@
     <string name="snack_bar_not_default_set">기본으로 설정</string>
     <string name="snack_bar_not_default_not_now">지금 저장 안 함</string>
     <string name="qs_tile_content_description">현재 기기의 AudioFX를 켜거나 끕니다</string>
+    <string name="qs_tile_label">AudioFX (%1$s)</string>
     <string name="normal">일반</string>
     <string name="classical">클래식</string>
     <string name="dance">댄스</string>
@@ -33,7 +33,7 @@
     <string name="electronic">일렉트로닉</string>
     <string name="small_speakers">작은 스피커</string>
     <string name="multimedia">멀티미디어</string>
-    <string name="custom">사용자 지정</string>
+    <string name="custom">사용자 정의</string>
     <string name="custom_n">사용자 정의 <xliff:g id="preset_num">%1$d</xliff:g></string>
     <string name="none">없음</string>
     <string name="smallroom">작은 방</string>
@@ -46,6 +46,7 @@
     <string name="effect_unavalable_for_speaker">스피커로는 이 음향효과를 사용할 수 없습니다.</string>
     <string name="device_headset">헤드셋</string>
     <string name="device_speaker">스피커</string>
+    <string name="device_usb">USB</string>
     <string name="device_bluetooth">블루투스</string>
     <string name="device_wireless">무선</string>
     <string name="device_line_out">출력</string>
@@ -57,4 +58,5 @@
     <string name="bass">저음</string>
     <string name="rename">이름 바꾸기</string>
     <string name="remove_custom_preset_warning_message">정말 %1$s을(를) 제거하시겠습니까?</string>
+    <string name="powered_by">powered by</string>
 </resources>

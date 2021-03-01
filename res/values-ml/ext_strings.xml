@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2014-2015 The CyanogenMod Project
-     Copyright (C) 2014-2019 The MoKee Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -40,6 +39,8 @@
     <string name="effect_unavalable_for_speaker">സ്പീക്കർ മോഡിൽ ഇഫക്‌ട് ലഭ്യമല്ല.</string>
     <string name="device_headset">ഹെഡ്സെറ്റ്</string>
     <string name="device_speaker">സ്പീക്കർ</string>
+    <string name="device_usb">USB</string>
+    <string name="device_bluetooth">ബ്ലൂടൂത്ത്</string>
     <string name="device_wireless">വയർലെസ്</string>
     <string name="reverb">പ്രതിധ്വനി</string>
     <string name="eq_preset">ഈക്വലൈസര്‍ പ്രീസെറ്റ്</string>

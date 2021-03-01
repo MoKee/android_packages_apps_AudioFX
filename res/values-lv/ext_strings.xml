@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2014-2015 The CyanogenMod Project
-     Copyright (C) 2014-2019 The MoKee Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,6 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="normal">Normāls</string>
     <string name="classical">Klasika</string>
     <string name="dance">Dejas</string>
     <string name="flat">Dzīvoklis</string>
@@ -28,16 +28,19 @@
     <string name="electronic">Elektronika</string>
     <string name="small_speakers">Mazi skaļruņi</string>
     <string name="custom">Pielāgots</string>
-    <string name="none">Nav</string>
+    <string name="none">Nekas</string>
     <string name="smallroom">Maza istaba</string>
     <string name="mediumroom">Vidēja istaba</string>
     <string name="largeroom">Liela istaba</string>
     <string name="mediumhall">Vidēja zāle</string>
     <string name="largehall">Liela zāle</string>
+    <string name="plate">Plate</string>
     <string name="power_on_prompt">Nospiediet ieslēgšanas pogu augšējā labajā pusē.</string>
     <string name="effect_unavalable_for_speaker">Efekts nav pieejams skaļruņa režīmā.</string>
     <string name="device_headset">Austiņas</string>
     <string name="device_speaker">Skaļrunis</string>
+    <string name="device_usb">USB</string>
+    <string name="device_bluetooth">Bluetooth</string>
     <string name="device_wireless">Bezvadu</string>
     <string name="reverb">Atbalss</string>
     <string name="eq_preset">Ekvalaizera pirmstatījumi</string>

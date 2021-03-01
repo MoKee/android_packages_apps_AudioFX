@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2014-2015 The CyanogenMod Project
-     Copyright (C) 2014-2019 The MoKee Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,7 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="snack_bar_not_default">AudioFX bukanlah bawaan efek kontrol panel anda.</string>
+    <string name="snack_bar_not_default">AudioFX bukan panel kontrol efek default Anda.</string>
     <string name="snack_bar_not_default_set">Setel bawaan</string>
     <string name="snack_bar_not_default_not_now">Tidak sekarang</string>
     <string name="qs_tile_content_description">Hidup/matikan AudioFX untuk perangkat saat ini</string>
@@ -36,7 +35,7 @@
     <string name="multimedia">Multimedia</string>
     <string name="custom">Khusus</string>
     <string name="custom_n">Kustom <xliff:g id="preset_num">%1$d</xliff:g></string>
-    <string name="none">Tidak ada</string>
+    <string name="none">Tidak Ada</string>
     <string name="smallroom">Ruang kecil</string>
     <string name="mediumroom">Ruang sedang</string>
     <string name="largeroom">Ruang besar</string>
@@ -55,9 +54,9 @@
     <string name="eq_preset">Preset equalizer</string>
     <string name="devices">Perangkat</string>
     <string name="virtualizer">Virtualizer</string>
-    <string name="treble">Trebel</string>
+    <string name="treble">Treble</string>
     <string name="bass">Bass</string>
-    <string name="rename">Ganti nama</string>
+    <string name="rename">Ubah Nama</string>
     <string name="remove_custom_preset_warning_message">Apakah Anda yakin ingin menghapus %1$s?</string>
     <string name="powered_by">didukung oleh</string>
 </resources>

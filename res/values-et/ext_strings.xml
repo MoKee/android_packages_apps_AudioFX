@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2014-2015 The CyanogenMod Project
-     Copyright (C) 2014-2019 The MoKee Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -42,7 +41,7 @@
     <string name="largeroom">Suur tuba</string>
     <string name="mediumhall">Keskmine hall</string>
     <string name="largehall">Suur hall</string>
-    <string name="plate">Plaat</string>
+    <string name="plate">Plate</string>
     <string name="power_on_prompt">Vajutage power nuppu üleval paremal.</string>
     <string name="effect_unavalable_for_speaker">Efekt puudub Kõlari-režiimis.</string>
     <string name="device_headset">Peakomplekt</string>
@@ -58,6 +57,5 @@
     <string name="treble">Kõrged</string>
     <string name="bass">Bass</string>
     <string name="rename">Nimeta ümber</string>
-    <string name="remove_custom_preset_warning_message">Kas oled kindel, et soovid %1$s-i kustutada?</string>
     <string name="powered_by">kasutatud tarkvara</string>
 </resources>

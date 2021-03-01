@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2014-2015 The CyanogenMod Project
-     Copyright (C) 2014-2019 The MoKee Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -20,7 +19,8 @@
     <string name="snack_bar_not_default_set">Задай по подразбиране</string>
     <string name="snack_bar_not_default_not_now">Не сега</string>
     <string name="qs_tile_content_description">Превключване на AudioFX за включване/изключване за текущото устройство</string>
-    <string name="normal">Нормално</string>
+    <string name="qs_tile_label">AudioFX (%1$s)</string>
+    <string name="normal">Нормална</string>
     <string name="classical">Класическа</string>
     <string name="dance">Танцувална</string>
     <string name="flat">Плосък</string>
@@ -46,6 +46,7 @@
     <string name="effect_unavalable_for_speaker">Ефекта не е достъпен за високоговорителя.</string>
     <string name="device_headset">Слушалки</string>
     <string name="device_speaker">Говорител</string>
+    <string name="device_usb">USB</string>
     <string name="device_bluetooth">Блутуут</string>
     <string name="device_wireless">Безжичен</string>
     <string name="device_line_out">Линеен изход</string>

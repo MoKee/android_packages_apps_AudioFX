@@ -14,6 +14,7 @@
      limitations under the License.
 -->
 <resources>
+    <string name="app_name">MusicFX</string>
     <string name="no_effects">ئۈنۈملەرنى ئىشلەتكىلى بولمايدۇ.</string>
     <string name="eq_dialog_title">تەڭپۇڭلاشتۇرغۇچ</string>
     <string name="headset_plug">بۇ ئۈنۈمدىن ھۇزۇرلىنىش ئۈچۈن تىڭشىغۇچنى قىستۇرۇڭ.</string>

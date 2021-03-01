@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2014-2015 The CyanogenMod Project
-     Copyright (C) 2014-2019 The MoKee Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -21,7 +20,7 @@
     <string name="snack_bar_not_default_not_now">Nie teraz</string>
     <string name="qs_tile_content_description">Przełącznik włączania/wyłączania AudioFX dla bieżącego urządzenia</string>
     <string name="qs_tile_label">AudioFX (%1$s)</string>
-    <string name="normal">Normalny</string>
+    <string name="normal">Normalna</string>
     <string name="classical">Klasyczna</string>
     <string name="dance">Taneczna</string>
     <string name="flat">Płaska</string>
@@ -34,7 +33,7 @@
     <string name="electronic">Elektroniczna</string>
     <string name="small_speakers">Małe głośniki</string>
     <string name="multimedia">Multimedia</string>
-    <string name="custom">Własny</string>
+    <string name="custom">Własne</string>
     <string name="custom_n">Niestandardowy <xliff:g id="preset_num">%1$d</xliff:g></string>
     <string name="none">Brak</string>
     <string name="smallroom">Mały pokój</string>

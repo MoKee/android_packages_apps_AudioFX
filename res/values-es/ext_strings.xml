@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2014-2015 The CyanogenMod Project
-     Copyright (C) 2014-2019 The MoKee Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -36,7 +35,7 @@
     <string name="multimedia">Multimedia</string>
     <string name="custom">Personalizado</string>
     <string name="custom_n">Personalizado <xliff:g id="preset_num">%1$d</xliff:g></string>
-    <string name="none">Ninguna</string>
+    <string name="none">Ninguno</string>
     <string name="smallroom">Habitación pequeña</string>
     <string name="mediumroom">Habitación mediana</string>
     <string name="largeroom">Gran habitación</string>
@@ -59,5 +58,5 @@
     <string name="bass">Bajos</string>
     <string name="rename">Renombrar</string>
     <string name="remove_custom_preset_warning_message">¿Está seguro que desea eliminar %1$s?</string>
-    <string name="powered_by">Desarrollado por</string>
+    <string name="powered_by">funciona con</string>
 </resources>

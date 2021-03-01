@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2014-2015 The CyanogenMod Project
-     Copyright (C) 2014-2019 The MoKee Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,6 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="normal">ئاسایی</string>
     <string name="classical">كلاسیكی</string>
     <string name="dance">سه‌ما</string>
     <string name="flat">تەخت</string>
@@ -27,8 +27,8 @@
     <string name="rock">ڕۆک</string>
     <string name="electronic">ئەلیکترۆنیك</string>
     <string name="small_speakers">دەنگدەری بچووک</string>
-    <string name="custom">تایبەت بە خۆ</string>
-    <string name="none">هیچیان</string>
+    <string name="custom">داواکراو</string>
+    <string name="none">هیچ</string>
     <string name="smallroom">ژوری بچوک</string>
     <string name="mediumroom">ژوری ئاسایی</string>
     <string name="largeroom">ژوری گەورە</string>
@@ -39,6 +39,9 @@
     <string name="effect_unavalable_for_speaker">کاریگه‌ری ئاماده‌نییه‌ بۆ باری سپیکه‌ر.</string>
     <string name="device_headset">هێدفۆن</string>
     <string name="device_speaker">بڵندگۆ</string>
+    <string name="device_usb">USB</string>
+    <string name="device_bluetooth">بلوتوس</string>
     <string name="device_wireless">بێتەل</string>
+    <string name="reverb">Reverb</string>
     <string name="eq_preset">ئاماده‌کراوی یه‌کسانکه‌ری ده‌نگ</string>
 </resources>

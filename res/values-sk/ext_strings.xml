@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      Copyright (C) 2014-2015 The CyanogenMod Project
-     Copyright (C) 2014-2019 The MoKee Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,7 +15,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="snack_bar_not_default">AudioFX nie je predvolený ovládací panel pre zmenu audio efektov.</string>
+    <string name="snack_bar_not_default">AudioFX nie je východzí ovládací panel pre zmenu audio efektov.</string>
     <string name="snack_bar_not_default_set">Predvolené systémom</string>
     <string name="snack_bar_not_default_not_now">Teraz nie</string>
     <string name="qs_tile_content_description">Prepnúť stav AudioFX</string>
@@ -24,7 +23,7 @@
     <string name="normal">Normálne</string>
     <string name="classical">Klasická hudba</string>
     <string name="dance">Tanec</string>
-    <string name="flat">Plochý</string>
+    <string name="flat">Flat</string>
     <string name="folk">Folk</string>
     <string name="heavy_metal">Heavy Metal</string>
     <string name="hip_hop">Hip Hop</string>
@@ -34,16 +33,16 @@
     <string name="electronic">Elektronická hudba</string>
     <string name="small_speakers">Malé reproduktory</string>
     <string name="multimedia">Multimédiá</string>
-    <string name="custom">Vlastný</string>
+    <string name="custom">Vlastné</string>
     <string name="custom_n">Vlastné <xliff:g id="preset_num">%1$d </xliff:g></string>
-    <string name="none">Žiadne</string>
+    <string name="none">Žiadny</string>
     <string name="smallroom">Malá miestnosť</string>
     <string name="mediumroom">Stredná miestnosť</string>
     <string name="largeroom">Veľká miestnosť</string>
     <string name="mediumhall">Stredná sála</string>
     <string name="largehall">Veľká sála</string>
-    <string name="plate">Plochý</string>
-    <string name="power_on_prompt">Stlačte tlačidlo Napájanie vpravo hore.</string>
+    <string name="plate">Platňa</string>
+    <string name="power_on_prompt">Stlačte prepínacie tlačidlo vpravo hore.</string>
     <string name="effect_unavalable_for_speaker">Efekt nie je dostupný pre režim reproduktora.</string>
     <string name="device_headset">Slúchadlá</string>
     <string name="device_speaker">Reproduktor</string>
@@ -51,7 +50,7 @@
     <string name="device_bluetooth">Bluetooth</string>
     <string name="device_wireless">Bezdrôtové</string>
     <string name="device_line_out">Linkový výstup</string>
-    <string name="reverb">Reverzný</string>
+    <string name="reverb">Reverb</string>
     <string name="eq_preset">Predvoľba ekvalizéra</string>
     <string name="devices">Zariadenia</string>
     <string name="virtualizer">Virtualizér</string>
