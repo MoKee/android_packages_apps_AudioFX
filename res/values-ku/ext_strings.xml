@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="normal">ئاسایی</string>
     <string name="classical">كلاسیكی</string>
     <string name="dance">سه‌ما</string>
     <string name="flat">تەخت</string>
@@ -39,6 +40,9 @@
     <string name="effect_unavalable_for_speaker">کاریگه‌ری ئاماده‌نییه‌ بۆ باری سپیکه‌ر.</string>
     <string name="device_headset">هێدفۆن</string>
     <string name="device_speaker">بڵندگۆ</string>
+    <string name="device_usb">USB</string>
+    <string name="device_bluetooth">بلوتوس</string>
     <string name="device_wireless">بێتەل</string>
+    <string name="reverb">Reverb</string>
     <string name="eq_preset">ئاماده‌کراوی یه‌کسانکه‌ری ده‌نگ</string>
 </resources>

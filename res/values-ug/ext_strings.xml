@@ -22,6 +22,7 @@
     <string name="flat">تەكشىلىك</string>
     <string name="folk">خەلق ناخشىسى</string>
     <string name="heavy_metal">ئېغىر مېتال</string>
+    <string name="hip_hop">Hip Hop</string>
     <string name="jazz">جاز</string>
     <string name="pop">مودا نەغمە</string>
     <string name="rock">تولغىما ئۇسسۇل</string>
@@ -39,6 +40,8 @@
     <string name="effect_unavalable_for_speaker">ياڭراتقۇ ھالىتىدە ئۈنۈمنى ئىشلەتكىلى بولمايدۇ.</string>
     <string name="device_headset">تىڭشىغۇچ</string>
     <string name="device_speaker">ياڭراتقۇ</string>
+    <string name="device_usb">USB</string>
+    <string name="device_bluetooth">كۆكچىش</string>
     <string name="device_wireless">سىمسىز</string>
     <string name="device_line_out">سىمنى چىقىرىش</string>
     <string name="reverb">ئارىلاش ئاۋاز</string>

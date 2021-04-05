@@ -14,7 +14,9 @@
      limitations under the License.
 -->
 <resources>
+    <string name="app_name">MusicFX</string>
     <string name="no_effects">האפקטים אינם זמינים.</string>
+    <string name="eq_dialog_title">Equalizer</string>
     <string name="headset_plug">חבר אוזניות כדי לשמוע אפקטים אלה.</string>
     <string name="bass_boost_strength">הגברת הבס</string>
     <string name="virtualizer_strength">סראונד</string>

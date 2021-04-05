@@ -14,6 +14,7 @@
      limitations under the License.
 -->
 <resources>
+    <string name="app_name">MusicFX</string>
     <string name="no_effects">ไม่มีเอฟเฟ็กต์</string>
     <string name="eq_dialog_title">อีควอไลเซอร์</string>
     <string name="headset_plug">ใช้หูฟังสำหรับเอฟเฟ็กต์เหล่านี้</string>

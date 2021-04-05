@@ -34,6 +34,7 @@
     <string name="electronic">மின்னணு</string>
     <string name="small_speakers">சிறிய ஒலிபெருக்கிகள்</string>
     <string name="custom">தனிப்பயன்</string>
+    <string name="custom_n">தனிப்பயன் <xliff:g id="preset_num">%1$d</xliff:g></string>
     <string name="none">ஏதுமில்லை</string>
     <string name="smallroom">சிறிய அறை</string>
     <string name="mediumroom">நடுத்தர அறை</string>
@@ -46,7 +47,7 @@
     <string name="device_headset">தலையணி</string>
     <string name="device_speaker">ஸ்பீக்கர்</string>
     <string name="device_usb">USB</string>
-    <string name="device_bluetooth">Bluetooth</string>
+    <string name="device_bluetooth">புளூடூத்</string>
     <string name="device_wireless">கம்பியில்லா</string>
     <string name="reverb">எதிர்முழக்கம்</string>
     <string name="eq_preset">சமனாக்கி முன்னமை</string>

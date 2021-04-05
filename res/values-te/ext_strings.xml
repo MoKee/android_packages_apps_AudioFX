@@ -40,6 +40,8 @@
     <string name="effect_unavalable_for_speaker">స్పీకర్ రీతి కొరకు ప్రభావం అందుబాటులో లేదు.</string>
     <string name="device_headset">హెడ్‌సెట్</string>
     <string name="device_speaker">స్పీకర్</string>
+    <string name="device_usb">USB</string>
+    <string name="device_bluetooth">బ్లూటూత్</string>
     <string name="device_wireless">నిస్తంత్రి</string>
     <string name="reverb">ప్రతిధ్వని</string>
     <string name="eq_preset">ముందుగా అమర్చిన ఈక్విలైజర్</string>

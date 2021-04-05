@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="normal">স্বাভাবিক</string>
     <string name="classical">ধ্রুপদী</string>
     <string name="dance">নৃত্য</string>
     <string name="flat">ফ্ল্যাট</string>
@@ -40,6 +41,7 @@
     <string name="device_headset">হেডসেট</string>
     <string name="device_speaker">স্পীকার</string>
     <string name="device_usb">ইউএসবি</string>
+    <string name="device_bluetooth">ব্লুটুথ</string>
     <string name="device_wireless">ওয়্যারলেস</string>
     <string name="reverb">প্রতিধ্বনি</string>
     <string name="eq_preset">ইকুয়ালাইজার বিন্যাস-পূর্বাবস্থা</string>

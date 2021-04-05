@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="normal">සාමාන්‍ය</string>
     <string name="classical">ශාස්ත්‍රීය</string>
     <string name="dance">නටන්න</string>
     <string name="flat">තැනිතලා</string>
@@ -39,6 +40,8 @@
     <string name="effect_unavalable_for_speaker">ස්පීකර ප්‍රකාරය සඳහා බලපෑම ලබාගත නොහැක.</string>
     <string name="device_headset">කන්යොමුව</string>
     <string name="device_speaker">ස්පීකරය</string>
+    <string name="device_usb">USB</string>
+    <string name="device_bluetooth">බ්ලූටූත්</string>
     <string name="device_wireless">රැහැන් රහිත</string>
     <string name="reverb">ආඛ්‍යාතය</string>
     <string name="eq_preset">සමකරකයේ පෙරසැකසීම</string>

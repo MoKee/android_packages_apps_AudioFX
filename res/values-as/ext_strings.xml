@@ -28,6 +28,7 @@
     <string name="rock">ৰক</string>
     <string name="electronic">ইলেক্ট্ৰনিক</string>
     <string name="small_speakers">সৰু স্পিকাৰ</string>
+    <string name="custom">কাষ্টম</string>
     <string name="none">হাল্লা</string>
     <string name="smallroom">সৰু কোঠা</string>
     <string name="mediumroom">মধ্যমীয়া কোঠা</string>
@@ -39,6 +40,8 @@
     <string name="effect_unavalable_for_speaker">স্পিকাৰ মোডত প্ৰভাৱ উপলব্ধ নহয়।</string>
     <string name="device_headset">হেডছেট</string>
     <string name="device_speaker">স্পীকাৰ</string>
+    <string name="device_usb">USB</string>
+    <string name="device_bluetooth">ব্লুটুথ</string>
     <string name="device_wireless">বেতাঁৰ</string>
     <string name="reverb">ৰিভাৰ্ব</string>
     <string name="eq_preset">ইকুইলাইজাৰ প্ৰিছেট</string>

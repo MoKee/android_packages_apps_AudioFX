@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="normal">Normalus</string>
     <string name="classical">Klasikinis</string>
     <string name="dance">Šokių</string>
     <string name="flat">Lygus</string>
@@ -39,6 +40,8 @@
     <string name="effect_unavalable_for_speaker">Efektas negalimas garsiakalbio režime.</string>
     <string name="device_headset">Laisvų rankų įranga</string>
     <string name="device_speaker">Garsiakalbis</string>
+    <string name="device_usb">USB</string>
+    <string name="device_bluetooth">Bluetooth</string>
     <string name="device_wireless">Belaidis</string>
     <string name="reverb">Aidas</string>
     <string name="eq_preset">Vienodintuvo išankstiniai nustatymai</string>

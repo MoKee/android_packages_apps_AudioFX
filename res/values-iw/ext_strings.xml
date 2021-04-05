@@ -20,6 +20,7 @@
     <string name="snack_bar_not_default_set">הגדר כברירת מחדל</string>
     <string name="snack_bar_not_default_not_now">לא עכשיו</string>
     <string name="qs_tile_content_description">הפעל או כבה את AudioFX למכשיר הנוכחי</string>
+    <string name="qs_tile_label">AudioFX (%1$s)</string>
     <string name="normal">רגיל</string>
     <string name="classical">קלאסי</string>
     <string name="dance">דאנס</string>
@@ -46,6 +47,8 @@
     <string name="effect_unavalable_for_speaker">האפקט אינו זמין במצב רמקול.</string>
     <string name="device_headset">אזניות</string>
     <string name="device_speaker">רמקול</string>
+    <string name="device_usb">USB</string>
+    <string name="device_bluetooth">Bluetooth</string>
     <string name="device_wireless">אלחוטי</string>
     <string name="device_line_out">יציאת שמע</string>
     <string name="reverb">תהודה</string>
