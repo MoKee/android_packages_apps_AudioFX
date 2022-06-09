@@ -16,6 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default_not_now">ଏବେ ନୁହେଁ</string>
     <string name="normal">ସାଧାରଣ</string>
     <string name="classical">କ୍ଲାସିକାଲ୍</string>
     <string name="dance">ନୃତ୍ୟ</string>
@@ -45,4 +46,5 @@
     <string name="device_wireless">ଓୟାର୍‍ଲେସ୍‍</string>
     <string name="reverb">ର୍ରିଭର୍ବ:</string>
     <string name="eq_preset">ଇକ୍ୱାଲାଇଜର୍‍ ପ୍ରିସେଟ୍‍</string>
+    <string name="rename">ନାମ ବଦଳାନ୍ତୁ</string>
 </resources>
